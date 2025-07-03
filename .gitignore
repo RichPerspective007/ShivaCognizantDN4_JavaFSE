@@ -1,0 +1,26 @@
+# Eclipse and Java project files to ignore
+
+# Eclipse workspace metadata
+**/.metadata/
+**/.settings/
+
+# Eclipse project config (optional to ignore)
+**/.classpath
+**/.project
+
+# Compiled classes
+**/bin/
+**/target/
+**/build/
+
+# IDE-specific
+**/.idea/
+**/*.iml
+
+# OS-specific
+*.DS_Store
+Thumbs.db
+
+# Logs, temp
+*.log
+*.tmp
